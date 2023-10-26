@@ -1,0 +1,8 @@
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\bin\Debug\ASM2.exe.config
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\bin\Debug\ASM2.exe
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\bin\Debug\ASM2.pdb
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\obj\Debug\ASM2.csproj.AssemblyReference.cache
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\obj\Debug\ASM2.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\obj\Debug\ASM2.exe
+D:\Desktop\IT\1651\Code\RestaurantOrder\ASM2\obj\Debug\ASM2.pdb
